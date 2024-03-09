@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MyPlugin">
+    <output-path>$PROJECT_DIR$/out/artifacts/MyPlugin</output-path>
+    <root id="archive" name="MyPlugin.jar">
+      <element id="directory" name="jadx.plugins.input.myplugin">
+        <element id="module-output" name="MyPlugin" />
+      </element>
+    </root>
+  </artifact>
+</component>
